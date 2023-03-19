@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agas007
 - 👀 I’m interested in learning things, coding, investing, management, and finance!
-- 🌱 I’m currently learning php, laravel, and git.
+- 🌱 I’m currently learning javascript and react framework.
 - 💞️ I’m looking to collaborate on null (for now), cause i'm still on my way learning these things
 - 📫 You can reach me on agastya.arnanda@gmail.com
 
